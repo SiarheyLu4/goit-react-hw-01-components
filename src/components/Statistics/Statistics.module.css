@@ -1,5 +1,5 @@
 .statistics{
-  margin: 0 auto;
+  margin: 20px auto;
   padding-top: 32px;
   padding-bottom: 32px;
   width: 800px;
@@ -20,12 +20,14 @@
   list-style: none;
   display: flex;
   justify-content: space-around;
+  
 }
 
 .item{
   flex-basis: auto;
     text-align: center;
     padding: 15px;
+    width: 100%;
 }
 
 .label{
