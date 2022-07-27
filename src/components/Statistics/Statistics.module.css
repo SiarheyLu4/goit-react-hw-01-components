@@ -1,0 +1,43 @@
+.statistics{
+  margin: 0 auto;
+  padding-top: 32px;
+  padding-bottom: 32px;
+  width: 800px;
+    padding-left: 16px;
+    padding-right: 16px;
+    text-align: center;
+    background-color: gray;
+    
+}
+
+.title{
+  background-color: blanchedalmond;
+  padding: 20px;
+  font-size: 40px;
+}
+
+.statList{
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+}
+
+.item{
+  flex-basis: auto;
+    text-align: center;
+    padding: 15px;
+}
+
+.label{
+    font-size: 28px;
+    display: block;
+    margin-bottom: 12px;
+    
+}
+
+.percentage{
+  display: block;
+    font-size: 28px;
+    font-weight: 700;
+}
+

@@ -6,8 +6,8 @@
 
 .description{
   width: 800px;
-  padding-left: 15px;
-  padding-right: 15px;
+  padding-left: 16px;
+  padding-right: 16px;
   margin: 0 auto;
   text-align: center;
   background-color: grey;
@@ -19,7 +19,7 @@
   align-items: center;
   flex-direction: column;
   margin: 0 auto;
-  padding: 10px;
+  padding: 12px;
 }
 
 .name{
@@ -40,8 +40,8 @@
 .stats{
   list-style: none;
   width: 800px;
-  padding-left: 15px;
-  padding-right: 15px;
+  padding-left: 16px;
+  padding-right: 16px;
   margin: 0 auto;
   background-color: grey;
   text-align: center;
@@ -52,10 +52,12 @@
 }
 
 .label{
-  margin-right: 5px;
+  margin-right: 4px;
   font-size: 20px;
 }
 
 .quantity{
+  display: block;
+  text-align: center;
   font-weight: 700;
 }
