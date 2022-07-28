@@ -1,0 +1,29 @@
+table th {
+  padding: 10px;
+  border: 1px solid black;
+  background-color: salmon;
+}
+
+table td {
+  padding: 10px;
+  border: 1px solid black;
+}
+
+table tr {
+  background-color: azure;
+}
+
+table tr:nth-child(2n) {
+  background-color: thistle;
+}
+
+.transactionHistory{
+  margin: 20px auto;
+  padding-top: 32px;
+  padding-bottom: 32px;
+  width: 800px;
+  padding-left: 16px;
+  padding-right: 16px;
+  text-align: center;
+  background-color: aquamarine;
+}
