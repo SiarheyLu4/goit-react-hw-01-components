@@ -1,0 +1,33 @@
+.item{
+  display: flex;
+  align-items: center;
+  margin-bottom: 12px;
+  padding: 16px;
+  background-color: antiquewhite;
+  width: 200px;
+}
+
+.onlain{
+  background-color: green;
+  border-radius: 50%;
+  width: 16px;
+  height: 16px;
+  margin-right: 8px;
+}
+
+.offlain{
+  background-color: red;
+  border-radius: 50%;
+  width: 16px;
+  height: 16px;
+  margin-right: 8px;
+}
+
+.avatar{
+  width: 48px;
+  margin-right: 8px;
+}
+
+.name{
+  font-size: 32px;
+}

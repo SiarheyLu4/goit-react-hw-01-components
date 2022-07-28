@@ -3,10 +3,10 @@
   padding-top: 32px;
   padding-bottom: 32px;
   width: 800px;
-    padding-left: 16px;
-    padding-right: 16px;
-    text-align: center;
-    background-color: gray;
+  padding-left: 16px;
+  padding-right: 16px;
+  text-align: center;
+  background-color: aquamarine;
     
 }
 
@@ -25,21 +25,20 @@
 
 .item{
   flex-basis: auto;
-    text-align: center;
-    padding: 15px;
-    width: 100%;
+  text-align: center;
+  padding: 15px;
+  width: 100%;
 }
 
 .label{
-    font-size: 28px;
-    display: block;
-    margin-bottom: 12px;
-    
+  font-size: 28px;
+  display: block;
+  margin-bottom: 12px;
 }
 
 .percentage{
   display: block;
-    font-size: 28px;
-    font-weight: 700;
+  font-size: 28px;
+  font-weight: 700;
 }
 
